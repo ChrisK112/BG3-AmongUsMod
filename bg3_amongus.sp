@@ -1,6 +1,5 @@
 #include <sourcemod>
 #include <sdktools>
-//rc sm plugins unload bg3_amongus
 #pragma semicolon 1
 
 #define PLUGIN_VERSION "0.1"
